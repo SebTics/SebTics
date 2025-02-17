@@ -18,7 +18,7 @@ Soy un estudiante en la licenciatura de Ciencias de la Computación en la **Facu
 
 ### 📫 &nbsp; Contacto:
 <a href="www.linkedin.com/in/sebastián-salmerón-gómez"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:sebssg8l@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:sebssg8@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <!--
 **SebTics/SebTics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
