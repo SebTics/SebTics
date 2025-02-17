@@ -1,6 +1,6 @@
 # Sebastián Salmerón Gómez 👋
 
-**'Estudiante de Ciencias de la Computación | Creativo Digital'**
+**Estudiante de Ciencias de la Computación | Creativo Digital**
 
 Soy un estudiante en la licenciatura de Ciencias de la Computación en la **Facultad de Ciencias de la UNAM**, próximo a graduarse, con afinidad y una pasión por la tecnología, el mundo digital, la programación y el diseño gráfico; buscando aportar mis conocimientos, mi apoyo, mi persona y una actitud diligente donde quiera que me encuentre. Mis proyectos han sido construidos a través del aprendizaje que he tenido, planeándolos, diseñándolos y haciéndolos realidad para así poner en práctica lo aprendido y poder beneficiar a otras personas con mi código. 
 
