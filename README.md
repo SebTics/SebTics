@@ -5,6 +5,16 @@
 
 Soy un estudiante en la licenciatura de Ciencias de la Computación en la **Facultad de Ciencias de la UNAM**, próximo a graduarse, con afinidad y una pasión por la tecnología, el mundo digital, la programación y el diseño gráfico; buscando aportar mis conocimientos, mi apoyo, mi persona y una actitud diligente donde quiera que me encuentre. Mis proyectos han sido construidos a través del aprendizaje que he tenido, planeándolos, diseñándolos y haciéndolos realidad para así poner en práctica lo aprendido y poder beneficiar a otras personas con mi código. 
 
+### 👨🏻‍💻 &nbsp; Sobre mí:
+🎓 &nbsp; Actualmente me encuentro estudiando la licenciatura en Ciencias de la Computación, en la Facultad de Ciencias de la UNAM, con vista a graduarme en el año 2026.\
+💻 &nbsp; ...\
+💡 &nbsp; ...\
+🌱 &nbsp; ...\
+✍️ &nbsp; ...\
+💬 &nbsp; ...\
+✉️ &nbsp; Puedes mandarme correo a sebssg8@gmail.com. ¡Te responderé prontamente!\
+📄 &nbsp; Checa mi [LinkedIn](https://www.linkedin.com/in/sebastián-salmerón-gómez/) para más detalles de mí.
+
 ### 🛠 &nbsp; Conocimientos:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -18,7 +28,7 @@ Soy un estudiante en la licenciatura de Ciencias de la Computación en la **Facu
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
 ### 📫 &nbsp; Contacto:
-<a href="www.linkedin.com/in/sebastián-salmerón-gómez"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/sebastián-salmerón-gómez"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:sebssg8@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <!--
 **SebTics/SebTics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
