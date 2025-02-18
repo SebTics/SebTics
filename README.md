@@ -7,11 +7,11 @@ Soy un estudiante en la licenciatura de Ciencias de la Computación en la **Facu
 
 ### 👨🏻‍💻 &nbsp; Sobre mí:
 🎓 &nbsp; Actualmente me encuentro estudiando la licenciatura en Ciencias de la Computación, en la Facultad de Ciencias de la UNAM, con vista a graduarme en el año 2026.\
-💻 &nbsp; ...\
-💡 &nbsp; ...\
-🌱 &nbsp; ...\
-✍️ &nbsp; ...\
-💬 &nbsp; ...\
+💻 &nbsp; Mi fuerte es la programación en Python (estructuras de datos, algoritmos y POO), asimismo desarrollo web con HTML, CSS y JS.\
+💡 &nbsp; Trabajo con la suite de Microsoft 365, la suite de Adobe y tengo experiencia con manejo de redes sociales de Meta.\
+🌱 &nbsp; Estoy especializándome en ciencia de datos y también pronto buscaré aprender Machine Learning.\
+✍️ &nbsp; Tengo afinidad y gusto por el diseño gráfico y por el mundo culinario.\
+💬 &nbsp; Soy hablante nativo de español pero también domino el inglés a un nivel C1.\
 ✉️ &nbsp; Puedes mandarme correo a sebssg8@gmail.com. ¡Te responderé prontamente!\
 📄 &nbsp; Checa mi [LinkedIn](https://www.linkedin.com/in/sebastián-salmerón-gómez/) para más detalles de mí.
 
